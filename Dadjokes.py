@@ -2,7 +2,9 @@ from urllib.request import Request, urlopen
 
 def fetch_random_dad_joke() -> str:
     """
-    whoop whoop .
+
+    whoop whoop 
+
     """
 
     req = Request(
