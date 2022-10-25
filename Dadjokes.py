@@ -2,7 +2,7 @@ from urllib.request import Request, urlopen
 
 def fetch_random_dad_joke() -> str:
     """
-    This is another docstring, made in master.
+    changes made to main = conflict
     """
 
     req = Request(
